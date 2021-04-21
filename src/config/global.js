@@ -260,46 +260,45 @@ export const creditos = {
   },
   contenidoInstruccional: [
     {
-      nombre: 'Gloria Matilde Lee Mejía',
-      cargo: 'Responsable del equipo',
-      centro: 'Centro de Comercio y Servicios',
-      regional: 'Regional Tolima',
-    },
-    {
       nombre: 'Rafael Neftalí Lizcano Reyes',
       cargo: 'Asesor pedagógico',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
     {
+      nombre: 'Mónica Genith Castro',
+      cargo: 'Experta temática',
+      centro: 'Red Nacional Bancos de Sangre y Servicio de Transfusión.',
+    },
+    {
       nombre: [
-        'Mónica Genith Castro',
         'Lía Marcela Gúiza',
         'Natalia Munarth',
         'Magaly Jaimes',
         'Mily Ramírez',
         'Aura Lucia Toloza',
       ],
-      cargo: 'Profesional Especializado ',
+      cargo: 'Expertas temáticas',
       centro:
         'Ministerio de Salud - Dirección de promoción y prevención - grupo curso de vida',
     },
     {
       nombre: 'Leidy Carolina Arias Aguirre',
       cargo: 'Diseñador instruccional',
-      centro: 'SENA - Centro de Diseño y metrología',
+      centro: 'Centro de Diseño y Metrología',
+      regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Sandra Patricica Hoyos Sepúlveda ',
-      cargo: 'Evaluador instruccional',
-      centro: 'Centro de Diseño y Metrología',
+      nombre: 'Sandra Patricica Hoyos Sepúlveda',
+      cargo: 'Evaluador Instruccional ',
+      centro: 'Centro para la Industria de la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
     {
       nombre: 'María Isabel Román Rueda',
       cargo: 'Revisora de estilo',
-      centro: 'Centro para la Industria de la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital',
+      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      regional: 'Regional Santander',
     },
   ],
   desarrolloProducto: [
@@ -309,15 +308,16 @@ export const creditos = {
     },
     {
       nombre: 'Leyson Fabian Castaño Perez',
-      cargo: 'Integración de recursos y pruebas',
+      cargo: 'Soporte organizacional',
     },
     {
       nombre: [
         'Carlos Julian Ramirez',
-        'Wilson Andres Arenales Caceres',
-        'José Jaime Luis Tang Pinzon',
+        'Camilo Andrés Villamizar Lizcano',
+        'José Jaime Luis Tang Pinzón',
         'María Natalia Maldonado Delgado',
-        'Zuleidy Maria Ruiz Torrez',
+        'Wilson Andres Arenales Cáceres',
+        'Zuleidy Maria Ruiz Torres',
       ],
       cargo: 'Diseño web y Producción Audiovisual',
     },
@@ -333,7 +333,7 @@ export const creditos = {
   gestoresRepositorio: [
     {
       nombre: 'Milady Tatiana Villamil Castellanos',
-      cargo: ['Desarrollo front-end', 'Validación de recursos'],
+      cargo: ['Validación de recursos'],
       centro: 'Centro de comercio y servicios',
       regional: 'Regional Tolima',
     },
