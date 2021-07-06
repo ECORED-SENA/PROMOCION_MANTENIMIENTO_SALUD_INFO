@@ -1,8 +1,8 @@
-# **sena-base-info-2021 v1.1.0**
+# **Intervenciones individuales para la promoción y mantenimiento de la salud**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/PROMOCION_MANTENIMIENTO_SALUD_INFO/](https://ecored-sena.github.io/PROMOCION_MANTENIMIENTO_SALUD_INFO/)
 
 #
 
